@@ -1,0 +1,5 @@
+/* Add spacing below the fixed navbar */
+.content {
+    padding-top: 70px; /* Adjust based on navbar height */
+  }
+  
